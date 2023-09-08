@@ -10,7 +10,6 @@
  * @Description: 课程表导入脚本
  * @Version: 1.0.0
  * **/
-
 // 获取课程时间表的函数
 function getTimes(xJConf) {
     // 获取时间配置的函数
